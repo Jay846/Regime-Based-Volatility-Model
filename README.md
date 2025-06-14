@@ -1,11 +1,11 @@
 
 Quant Strategy: Regime-Based Volatility Model (Live-Traded)
 
-This project showcases a simplified version of a **live-traded algorithmic strategy** developed using time-series modeling and custom volatility overlays.
+This project showcases a simplified version of a live-traded algorithmic strategy developed using time-series modeling and custom volatility overlays.
 
 The strategy is based on:
-- Regime identification using **Hidden Markov Models (HMM)
-- Volatility insight using **custom GARCH adjustments** (logic redacted)
+- Regime identification using Hidden Markov Models (HMM)
+- Volatility insight using custom GARCH adjustments (logic redacted)
 - A multi-layered signal generation process combining statistical modeling and market heuristics
 
 ---
@@ -26,7 +26,7 @@ The strategy is based on:
 This repo includes:
 - Basic regime classification via HMM (`hmm.py`)  
 - A placeholder signal engine using MA-50/200 logic (`core_logic.py`)  
-- Sample live-trade result (`result.png`)
+- Sample backtest-trade result (`result.png`)
 
 > Note: This is a simplified version of my proprietary strategy.  
 > The core logic and execution components have been redacted for confidentiality.
