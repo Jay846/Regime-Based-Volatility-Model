@@ -1,3 +1,13 @@
+Data:
+1) Capital Deployed: ₹2Cr
+2) Backtest Period: last 900 days (~3 years)
+3) Total P&L: ₹60.64L
+4) Win Rate: 70.97% 
+5) Sharpe Ratio: 3.92
+6) Max Drawdown: ₹15.8L
+7) Asset : Indian Equity
+8) Tested Stocks : 300+
+
 
 Backtest Results:
 +------------+--------------------+---------------+--------------+-----------+------------+
@@ -190,10 +200,7 @@ Backtest Results:
 | COALINDIA  | BUY                |        381.6  |       390.41 |  194808   |      22597 |
 +------------+--------------------+---------------+--------------+-----------+------------+
 
-Total P&L: 6064366.70
-Win Rate: 70.97%
-Sharpe Ratio: 3.92
-Max Drawdown: 1580654.71
+
 
 
 
