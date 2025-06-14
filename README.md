@@ -26,7 +26,7 @@ The strategy is based on:
 This repo includes:
 - Basic regime classification via HMM (`hmm.py`)  
 - A placeholder signal engine using MA-50/200 logic (`core_logic.py`)  
-- Sample backtest-trade result (`result.png`)
+- Sample backtest-trade result (`result.txt`)
 
 > Note: This is a simplified version of my proprietary strategy.  
 > The core logic and execution components have been redacted for confidentiality.
